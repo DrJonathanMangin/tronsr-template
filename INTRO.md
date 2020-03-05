@@ -1,1 +1,1 @@
-A short introduction about your team
+**Decentralized Finance for Everyone**
